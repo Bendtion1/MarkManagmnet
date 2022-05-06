@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576674136 source:d:\clanguage\c big homework\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<windows.h>
+
